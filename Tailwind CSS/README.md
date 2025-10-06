@@ -5,7 +5,7 @@
 
 🔗 Linked with the logo of Tailwind CSS you can find the offical site below :)
 
-<a href="https://tailwindcss.com/" target="_blank" referrerpolicy="noreferrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Tailwind-CSS-Logo.png" alt="Tailwind CSS Logo"</a>
+<a href="https://tailwindcss.com/" target="_blank" referrerpolicy="noreferrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Tailwind-CSS-Logo.png" alt="Tailwind CSS Logo" /></a>
 
 📦 The minified original code of Tailwind CSS is found on the link below :)
 

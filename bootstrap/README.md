@@ -5,7 +5,7 @@
 
  🔗 Linked with the logo of Bootstrap you can find the offical site below :)
 
-<a href="https://getbootstrap.com/" target="_blank" referrerpolicy="noreferrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Bootstrap-logo.png" alt="Bootstrap Logo"</a>
+<a href="https://getbootstrap.com/" target="_blank" referrerpolicy="noreferrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Bootstrap-logo.png" alt="Bootstrap Logo" /></a>
 
 📦 The minified original code of Bootstrap is found on the link below :)
 
