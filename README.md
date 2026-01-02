@@ -5,4 +5,4 @@
 
 ⛏️⛏️ Mining through frameworks and Libraries ⚡
 
-<img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Mine.jpg" alt="Mining place picture">
+<img src="https://github.com/Kirubel-Eshetu/This-is-/blob/main/Mine.jpg" alt="Mining place picture">
